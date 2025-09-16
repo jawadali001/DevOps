@@ -1,2 +1,2 @@
 # DevOps
-repo for devops
+repo for devops commands
